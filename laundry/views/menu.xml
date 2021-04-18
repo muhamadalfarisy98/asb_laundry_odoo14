@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <data>
+        <!-- MENU ROOT -->
+        <menuitem name="Laundry" id="laundry.menu_laundry_root" 
+            web_icon="laundry,static/description/icon.png"/>
+    </data>
+</odoo>
